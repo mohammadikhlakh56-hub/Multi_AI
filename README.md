@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Antigravity OS
+
 ### Hybrid AI Agent Architecture
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -243,7 +243,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built with ❤️ by the **Antigravity Team**
+Built with ❤️ by the **Team Alpha**
 
 *Pushing the boundaries of autonomous AI agent systems.*
 
